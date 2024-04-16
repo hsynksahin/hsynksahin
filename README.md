@@ -15,7 +15,6 @@
 
 ---
 ![Stat 3](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-kucuksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ![Stat 1](https://github-readme-stats.vercel.app/api?username=huseyin-kucuksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![Stat 2](https://github-readme-streak-stats.herokuapp.com/?user=huseyin-kucuksahin&theme=dark&hide_border=true)
 

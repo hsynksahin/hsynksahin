@@ -26,7 +26,8 @@
 ![Top Contributed](https://github-contributor-stats.vercel.app/api?username=huseyin-kucuksahin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📫 How to reach me
-  
+
+[![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hksahin06@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/microhawk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/hüseyin-küçükşahin-079402161/>)
 
@@ -35,18 +36,3 @@
 [![Visitors](https://visitcount.itsvg.in/api?id=huseyin-kucuksahin&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Used GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
-**huseyin-kucuksahin/huseyin-kucuksahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

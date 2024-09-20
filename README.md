@@ -15,15 +15,15 @@
 
 ---
 
-![Stat 3](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-kucuksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Stat 3](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Stat 1](https://github-readme-stats.vercel.app/api?username=huseyin-kucuksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![Stat 1](https://github-readme-stats.vercel.app/api?username=hsynksahin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
-![Stat 2](https://github-readme-streak-stats.herokuapp.com/?user=huseyin-kucuksahin&theme=dark&hide_border=true)
+![Stat 2](https://github-readme-streak-stats.herokuapp.com/?user=hsynksahin&theme=dark&hide_border=true)
 
 ---
 
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=huseyin-kucuksahin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=hsynksahin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📫 How to reach me
 
@@ -33,6 +33,6 @@
 
 ---
 
-[![Visitors](https://visitcount.itsvg.in/api?id=huseyin-kucuksahin&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Visitors](https://visitcount.itsvg.in/api?id=hsynksahin&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Used GPRM ( https://gprm.itsvg.in ) -->
